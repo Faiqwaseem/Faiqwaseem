@@ -4,7 +4,7 @@
 
  <h3 align="center">I'm a passionate Web Development student who loves building websites and learning new technologies.</h3>
 
-   
+   - student of suffah institute of technology
  - 🎯 Build real-world projects to improve my development skill
 - 👨‍💻 All of my projects are available at  https://m-faiq.netlify.app/
 - 📫 How to reach me muhammadfaiqwaseem3@gmail.com
