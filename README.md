@@ -6,9 +6,9 @@
 
    - student of suffah institute of technology
 
- - 🎯 Build real-world projects to improve my development skill
+ - 🎯 Web Dev Enthusiast | Crafting clean & modern UI.
 
- - Aspiring Frontend Developer
+ - Code. Create. Learn. Repeat.
    
 - 👨‍💻 All of my projects are available at  https://faiq-dev.netlify.app/
   
