@@ -10,7 +10,7 @@
 
  - currently Learing JavaScript
    
-- 👨‍💻 All of my projects are available at  https://m-faiq.netlify.app/
+- 👨‍💻 All of my projects are available at  https://faiq-dev.netlify.app/
   
 - 📫 How to reach me muhammadfaiqwaseem3@gmail.com
 <!---
