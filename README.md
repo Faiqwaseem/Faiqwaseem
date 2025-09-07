@@ -2,13 +2,13 @@
 
 # <h1 align="center">Hi 👋, I'm Muhammad Faiq</h1>
 
- <h3 align="center">I'm a passionate Web Development student who loves building websites and learning new technologies.</h3>
+ <h3 align="center">"Aspiring Frontend Developer | Building interactive websites & exploring new technologies."</h3>
 
    - student of suffah institute of technology
 
  - 🎯 Build real-world projects to improve my development skill
 
- - currently Learing JavaScript
+ - Aspiring Frontend Developer
    
 - 👨‍💻 All of my projects are available at  https://faiq-dev.netlify.app/
   
