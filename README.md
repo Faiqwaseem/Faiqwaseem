@@ -33,6 +33,6 @@ You can click the Preview link to take a look at your changes.
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Faiqwaseem&theme=radical)
 
-## 🧰 Most Used Languages
+<!--- ## 🧰 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqwaseem&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqwaseem&layout=compact&theme=radical) --->
