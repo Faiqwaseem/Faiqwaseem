@@ -30,8 +30,7 @@ You can click the Preview link to take a look at your changes.
 ### 📊 GitHub Stats:
 ![Faiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=radical)
 
-### 🔥 Streak Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=Faiqwaseem&theme=radical)
+
 
 <!--- ## 🧰 Most Used Languages
 
