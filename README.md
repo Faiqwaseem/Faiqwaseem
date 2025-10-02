@@ -30,7 +30,7 @@
 
 🔹 [**E-commerce Demo**](https://shop-mate-e-commerce.netlify.app/) – Team project showcasing cart & product listing  
 
-*(👉 Replace `#` with your live links)*  
+
 
 ---
 
