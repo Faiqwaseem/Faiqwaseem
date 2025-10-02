@@ -24,10 +24,9 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 [**Portfolio Website**](#) – My personal portfolio built with HTML, CSS, JS  
-🔹 [**Quiz App**](#) – Interactive quiz with timer, score & percentage calculation  
-🔹 [**Markdown Previewer**](#) – React project inspired by FreeCodeCamp certification  
-🔹 [**E-commerce Demo**](#) – Team project showcasing cart & product listing  
+🔹 [**Portfolio Website**]((#)(https://faiq-dev.netlify.app/)) – My personal portfolio built with HTML, CSS, React.js, Redux 
+🔹 [**Markdown Previewer**]([#](https://creative-dolphin-453319.netlify.app/)) – React project inspired by FreeCodeCamp certification  
+🔹 [**E-commerce Demo**]([#](https://shop-mate-e-commerce.netlify.app/)) – Team project showcasing cart & product listing  
 
 *(👉 Replace `#` with your live links)*  
 
@@ -41,9 +40,9 @@
 ---
 
 ## 🌐 Connect With Me  
-- 💼 [LinkedIn](#)  
-- 🌎 [Portfolio](#)  
-- 📧 Email: your-email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-faiq-5a9b48333/)  
+- 🌎 [Portfolio](https://faiq-dev.netlify.app/)  
+- 📧 Email: muhammadfaiqwaseem3@gmail.com
 
 ---
 
