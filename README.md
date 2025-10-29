@@ -68,8 +68,8 @@ MongoDB: 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%
 
 ## 📈 GitHub Stats
 
-![Muhammad Faiq GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Muhammad Faiq GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqwaseem&layout=compact&theme=radical)
 
 ---
 
