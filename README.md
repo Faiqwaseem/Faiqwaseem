@@ -60,9 +60,9 @@ MongoDB: 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MuhammadFaiq-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MuhammadFaiq-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/muhammad-faiq-5a9b48333/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@YOUR_TWITTER-blue?style=flat-square&logo=twitter)](https://twitter.com/YOUR_TWITTER)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square)](https://YOUR_PORTFOLIO_LINK/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square)]([https://YOUR_PORTFOLIO_LINK/](https://faiq-dev.netlify.app/) 
 
 ---
 
