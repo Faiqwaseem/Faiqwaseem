@@ -1,103 +1,137 @@
 [![Stand With Palestine](https://github.com/standforhumanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
 
-# 👋 Hi, I'm Muhammad Faiq
+# Muhammad Faiq
 
-### 🌟 Frontend Developer | Aspiring Full Stack Developer | React & Next.js Enthusiast
+**Frontend Engineer (React / Next.js) · Full‑Stack Developer in Progress**
 
-I’m a passionate developer transforming designs into interactive web experiences.  
-Currently learning **Full Stack Development** to become a versatile developer.  
+I am a frontend-focused engineer with a strong foundation in modern JavaScript, React, and scalable UI architecture. I am currently expanding into backend development to deliver complete, production-ready full‑stack applications.
 
 ---
 
-## 💻 Tech Stack & Skills
+## 👨‍💻 Professional Summary
 
-### Languages
-- **HTML5** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-- **CSS3** ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-- **JavaScript (ES6+)** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-- **TypeScript** ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+* 2+ years of hands-on experience building responsive and interactive web interfaces.
+* Strong understanding of component-based architecture, state management, and performance optimization.
+* Experience collaborating on real-world projects including desktop (Electron) and web applications.
+* Actively learning backend technologies to design secure, scalable APIs and systems.
+
+---
+
+## 🧠 Technical Skills
 
 ### Frontend
-- **React.js** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-- **Redux Toolkit** ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-- **Next.js** ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 
-### Tools & Platforms
-- **Git & GitHub** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-- **VS Code** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+* **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+* **Frameworks & Libraries:** React.js, Next.js, Redux Toolkit
+* **Styling:** Responsive Design, Flexbox, CSS Grid, UI/UX best practices
+* **Concepts:** SPA architecture, reusable components, client-side routing, state management
 
----
+### Backend (In Progress)
 
-## 🎨 Skill Progress
+* **Runtime & Frameworks:** Node.js, Express.js
+* **Databases:** MongoDB, SQL (basic understanding)
+* **APIs:** RESTful APIs, basic authentication (JWT)
 
-**Frontend Development:**  
-HTML: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%  
-CSS: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%  
-JavaScript: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%  
-React.js: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%  
-Redux Toolkit: 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  
-Next.js: 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  
-TypeScript: 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
+### Tools & Workflow
 
-**Backend (Learning):**  
-Node.js: 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40%  
-Express.js: 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%  
-MongoDB: 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%  
+* Git & GitHub (branching, PRs, version control)
+* VS Code
+* Deployment: Netlify, Vercel
+* Basic CI/CD understanding
 
 ---
 
-## 🌱 Currently Learning
+## 📊 Skill Proficiency
 
-- Node.js & Express.js 🟢  
-- MongoDB & SQL Databases 🟢  
-- RESTful APIs & GraphQL 🌐  
-- Authentication & Security 🔐  
-- Full Stack Project Architecture 🏗️  
+**Frontend Development**
 
-*(Always hungry to learn and level up!)*  
+* HTML: ██████████ 100%
+* CSS: █████████░ 90%
+* JavaScript: █████████░ 90%
+* React.js: █████████░ 90%
+* Redux Toolkit: ████████░░ 80%
+* Next.js: ████████░░ 80%
+* TypeScript: ███████░░░ 70%
 
----
+**Backend Development (Learning)**
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MuhammadFaiq-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-faiq-5a9b48333/)  
-
-[![Twitter](https://img.shields.io/badge/Twitter-@MuhammadFaiq-blue?style=flat-square&logo=twitter)](https://twitter.com/YOUR_TWITTER)  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square)](https://faiq-dev.netlify.app/)
-
+* Node.js: ████░░░░░░ 40%
+* Express.js: ███░░░░░░░ 30%
+* MongoDB: ███░░░░░░░ 30%
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Selected Projects
 
-![Muhammad Faiq GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqwaseem&layout=compact&theme=radical)
+### POS Desktop Application (Electron + React)
 
----
+* Desktop-based Point of Sale system with silent printing support.
+* License verification and hardware-based activation.
+* Designed for performance and offline-first usage.
 
-## ✨ Fun Facts
+### Quiz Application (Frontend)
 
-- Coffee ☕ fuels my coding sessions!  
-- I love experimenting with **UI/UX designs** and small interactive projects.  
-- Every bug is a lesson, every project is a step closer to mastery.  
+* Timed quiz application with dynamic scoring and result calculation.
+* Built using vanilla JavaScript with clean UI and logic separation.
 
----
+### Personal Portfolio Website
 
-### 💡 Mission
-
-To grow as a **Full Stack Developer**, building innovative projects while mastering modern web technologies.  
-
-> "Learning never stops. Coding never sleeps." 💻  
+* Responsive developer portfolio showcasing projects and skills.
+* Optimized for performance and accessibility.
 
 ---
 
-### 🌈 Let’s Connect & Build Amazing Things Together!
+## ⚙️ Development Setup
 
+```bash
+# Clone repository
+git clone https://github.com/Faiqwaseem/<repository-name>.git
 
+# Install dependencies
+npm install
 
+# Start development server
+npm run dev
+```
 
+---
 
+## 📈 GitHub Analytics
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faiqwaseem\&show_icons=true\&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqwaseem\&layout=compact\&theme=radical)
+
+---
+
+## 🌱 Current Focus
+
+* Backend architecture with Node.js & Express
+* Database design and data modeling
+* Secure authentication & authorization
+* Building end-to-end full‑stack applications
+
+---
+
+## 🔗 Professional Links
+
+* **Portfolio:** [https://faiq-dev.netlify.app/](https://faiq-dev.netlify.app/)
+* **LinkedIn:** [https://www.linkedin.com/in/muhammad-faiq-5a9b48333/](https://www.linkedin.com/in/muhammad-faiq-5a9b48333/)
+* **GitHub:** [https://github.com/Faiqwaseem](https://github.com/Faiqwaseem)
+
+---
+
+## 🧩 Professional Values
+
+* Clean, readable, and maintainable code
+* Continuous learning and improvement
+* Strong problem-solving mindset
+* Focus on user experience and performance
+
+---
+
+> *"Striving to write code that is scalable, maintainable, and impactful."*
+
+---
+
+📌 *Open to frontend roles, internships, and junior full‑stack opportunities.*
