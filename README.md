@@ -127,6 +127,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Faiqwaseem.Faiqwaseem" alt="visitor badge"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Faiqwaseem&style=flat-square&color=blue)
+
