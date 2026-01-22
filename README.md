@@ -1,131 +1,101 @@
 [![Stand With Palestine](https://github.com/standforhumanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
 
 <h1 align="center">👋 Hi, I'm Muhammad Faiq</h1>
-<h3 align="center">🌟 Frontend Developer & Student</h3>
+<h3 align="center">Frontend Developer • Full Stack Developer (In Progress)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=JavaScript+Lover;React+Enthusiast;Design+Is+my+Passion;Continuous+Learner;Backend+In+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=520&lines=Frontend+Developer+%7C+React+%26+Next.js;Clean+UI+%7C+Scalable+Code;Performance+Focused+Web+Apps;Backend+Development+In+Progress" alt="Typing SVG" />
 </p>
 
 ---
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213938723-e13b66f8-9f2f-4b0a-a4c4-c5c223bad761.gif" width="260"/>
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-- 🎓 Student passionate about modern web development & design.
-- 💻 Experienced in **JavaScript, React, HTML, CSS**.
-- 🤝 Always open to collaborative projects and learning opportunities.
-- 🛡️ Advocate for tech for good.
+I’m a **Frontend Developer** with strong expertise in building **modern, responsive, and performance-driven web applications**.  
+Currently expanding my skills toward **Full Stack Development** with a focus on scalable backend architectures.
 
----
-
-## 🏅 Achievements & Certifications
-
-- 🥇 Winner - Local Hackathon 2025
-- 📜 FreeCodeCamp Responsive Web Design Certificate
-- 🏆 JavaScript Mastery - Udemy 2024
+- 🚀 Frontend focused on **React, JavaScript (ES6+), Next.js**
+- 🧩 Strong understanding of **component-based architecture**
+- ⚡ Passionate about **clean code, UX, and performance**
+- 🔄 Backend development **actively in progress**
+- 🤝 Open to collaboration, internships, and junior roles
 
 ---
 
-## 🎯 2026 Learning Goals
+## 🛠️ Tech Stack
 
-- Master **TypeScript** & **Next.js**
-- Complete backend roadmap (**Node.js, Express, MongoDB**)
-- Launch personal SaaS project
-- Contribute to 10+ open source projects
-- Speak at a local tech meetup
-
----
-
-## 🚀 Tech Stack
-
-### 🖥️ Frontend
-
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap,tailwind,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
 </p>
 
-### 🔧 Backend <span style="color: #f39c12; font-weight: bold;">(In Progress 🚧)</span>
-
+### ⚙️ Backend <sup>(In Progress)</sup>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
 </p>
-<p>
-  <b>Learning:</b> Node.js, Express, MongoDB, Python
-  <br>
-  <img src="https://img.shields.io/badge/in%20progress-yellow?style=for-the-badge&logo=serverless&logoColor=white" />
-</p>
+
+- **Currently Learning:** Node.js, Express.js, MongoDB, REST APIs
+- **Goal:** Build secure, scalable, and production-ready backend systems
 
 ---
 
-## 💬 Fun Facts
+## 📌 What I’m Working On
 
-- I love coffee ☕ and late-night coding
-- I play chess to sharpen my mind ♟️
-- Actively follow global activism and tech-for-good initiatives 🌍
+- 🔹 Advanced **React & Next.js** patterns
+- 🔹 Backend APIs with **Node.js & Express**
+- 🔹 Authentication & database integration
+- 🔹 Real-world full stack projects
+- 🔹 GitHub & open-source contributions
 
 ---
 
-## ✨ Quote
+## 🚀 Featured Projects
 
-> "The best way to predict the future is to create it." — Abraham Lincoln
+- 🌐 **Portfolio Website**  
+  https://faiq-dev.netlify.app/
+
+- 🛒 **E-Commerce & React Apps**  
+  https://shop-mate-e-commerce.netlify.app/
+
+- 🇵🇸 **Stand With Palestine**  
+  https://stand-with-palestine.vercel.app
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=radical" alt="Faiqwaseem's github stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faiqwaseem&theme=radical"/>
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faiqwaseem&theme=radical" />
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faiqwaseem&theme=radical" />
 </p>
 
 ---
 
-## 🌎 Contribution Map
+## 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Faiqwaseem&limit=5" width="400" />
-</p>
-
----
-
-## 📢 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/faiqwaseem/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/muhammad-faiq-5a9b48333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:faiqwaseeem@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:muhammadfaiqwaseem3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/faikwaseem" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://github.com/Faiqwaseem">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🏆 Featured Projects
+## 💡 Philosophy
 
-- [My Portfolio Website](https://faiqwaseem.vercel.app)  
-- [Stand With Palestine](https://stand-with-palestine.vercel.app)
-- [Other Cool Projects](#)
-
----
-
-## ☕ Support
-
-<p align="center">
-  <a href="https://buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
+> *“Write code that humans love to read and machines love to run.”*
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Faiqwaseem&style=flat-square&color=blue)
-
