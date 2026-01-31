@@ -67,11 +67,9 @@ Currently expanding my skills toward **Full Stack Development** with a focus on 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faiqwaseem&theme=radical" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faiqwaseem&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Faiqwaseem&theme=radical&hide_border=true" />
 </p>
 
 ---
