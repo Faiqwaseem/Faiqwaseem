@@ -1,4 +1,4 @@
-[Stand With Palestine](https://raw.githubusercontent.com/standforhumanity/stand-with-palestine/main/Banners/Banner1.svg)     (https://stand-with-palestine.vercel.app)
+[!Stand With Palestine](https://raw.githubusercontent.com/standforhumanity/stand-with-palestine/main/Banners/Banner1.svg)]     (https://stand-with-palestine.vercel.app)
 
 <div align="center">
 
