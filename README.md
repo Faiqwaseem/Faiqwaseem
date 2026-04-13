@@ -1,7 +1,7 @@
+
+  [![Stand With Palestine](https://raw.githubusercontent.com/standforhumanity/stand-with-palestine/main/Banners/Banner1.svg)]     (https://stand-with-palestine.vercel.app)
+
 <div align="center">
-[![Stand With Palestine](https://raw.githubusercontent.com/standforhumanity/stand-with-palestine/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:4da6ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
