@@ -28,7 +28,7 @@
 
 ## 🎯 Professional Overview
 
-Fullstack engineer with **3+ years** building production-grade web applications and distributed systems. Specialized in React/Next.js frontend architecture, Node.js/Express backend APIs, and real-time data processing. Currently advancing expertise in **cybersecurity**, system hardening, and secure coding practices. Driven by solving complex problems with clean, maintainable code.
+Fullstack engineer with **1+ years** building production-grade web applications and distributed systems. Specialized in React/Next.js frontend architecture, Node.js/Express backend APIs, and real-time data processing. Currently advancing expertise in **cybersecurity**, system hardening, and secure coding practices. Driven by solving complex problems with clean, maintainable code.
 
 **Core Values:** Performance-first development • Security by design • Open source contribution • Continuous learning
 
