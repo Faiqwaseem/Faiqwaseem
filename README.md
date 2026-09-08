@@ -239,3 +239,129 @@ const faiq = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=100&section=footer&reversal=true" width="100%"/>
 
 </div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=120&section=header&text=Muhammad%20Faiq&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
+
+## Full Stack Developer | MERN Stack | Problem Solver
+
+🇵🇰 **Karachi, Pakistan** | Building scalable web applications with React, Node.js & MongoDB
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=vercel&logoColor=fff&labelColor=0c1118)](https://faiq-dev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faiq-5a9b48333/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faiqwaseem)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfaiqwaseem3@gmail.com)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Full Stack Developer passionate about building clean, scalable web applications. Specializing in **MERN Stack** with hands-on experience in production systems. Strong foundation in **Data Structures, Algorithms & Problem Solving**. Currently seeking a **Full-Time MERN Stack Developer** role.
+
+---
+
+## 💻 Tech Stack
+
+**Frontend:** React 18 • Next.js • TypeScript • Tailwind CSS • Redux Toolkit • Zustand
+
+**Backend:** Node.js • Express.js • NestJS • REST APIs • Socket.io
+
+**Database:** MongoDB • PostgreSQL • Firebase • Redis
+
+**Tools & Platforms:** Git • Docker • Vercel • Postman • VS Code
+
+---
+
+## ⭐ Featured Project
+
+### **Suffah POS** — Production Point-of-Sale System
+A comprehensive multi-platform POS solution demonstrating full-stack expertise.
+
+**Tech Stack:**
+- 🖥️ **Desktop:** Electron • React • TypeScript • SQLite
+- 📱 **Mobile:** React Native • Bluetooth Printer Integration • OTA Updates
+- ⚙️ **Backend:** Express.js • Real-time Sync • Offline-First Architecture
+
+**Key Features:**
+- Real-time inventory sync across platforms
+- ESC/POS thermal printer support (48mm & 58mm)
+- Offline functionality with SQLite
+- Kitchen Order Ticket (KOT) routing system
+- User authentication & role-based access
+
+[View Repository →](https://github.com/Faiqwaseem)
+
+---
+
+## 🎯 Core Competencies
+
+✅ Full Stack Web Application Development
+✅ RESTful API Design & Implementation
+✅ Database Design & Optimization
+✅ Responsive UI/UX with Modern CSS
+✅ State Management (Redux, Zustand)
+✅ Real-time Data Handling (Socket.io)
+✅ Problem Solving & Data Structures
+✅ Version Control & Git Workflow
+
+---
+
+## 📈 What I Do
+
+- 🔨 Build scalable, production-grade web applications
+- 🎨 Create responsive, user-friendly interfaces
+- ⚡ Write efficient, maintainable backend APIs
+- 🔐 Implement secure authentication & authorization
+- 🚀 Deploy and optimize full-stack applications
+
+---
+
+## 🎓 Learning & Growth
+
+Currently advancing in:
+- **Advanced System Design** — Microservices, scalability patterns
+- **Security Best Practices** — OWASP, secure coding
+- **Cloud Infrastructure** — AWS, DevOps fundamentals
+
+---
+
+## 💼 Open to Opportunities
+
+🟢 **Available for:** Full-time MERN Stack Developer roles • Freelance projects • Collaboration on open-source
+
+---
+
+## 📊 Quick Stats
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=github_dark&hide_border=true&bg_color=0c1118&title_color=00d4aa&icon_color=4da6ff&text_color=8b949e&card_width=800" />
+
+</div>
+
+---
+
+<div align="center">
+
+```javascript
+const faiq = {
+  role: "Full Stack Developer",
+  focus: "MERN Stack",
+  expertise: ["React", "Node.js", "MongoDB", "System Design"],
+  motto: "Clean code. Scalable solutions. Always learning."
+}
+```
+
+**Let's build something amazing together!**
+
+[![GitHub](https://img.shields.io/badge/View%20My%20Work-0c1118?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Faiqwaseem)
+[![Get in Touch](https://img.shields.io/badge/Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:muhammadfaiqwaseem3@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=100&section=footer&reversal=true" width="100%"/>
+
+</div>
