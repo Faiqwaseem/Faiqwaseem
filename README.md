@@ -5,17 +5,17 @@
 <br/>
 
 <h2>
-  <code>Fullstack Software Engineer</code> • <code>Security Enthusiast</code> • <code>Open Source Contributor</code>
+  <code>Fullstack Software Engineer</code> • <code>Open Source Contributor</code>
 </h2>
 
 <p>
-  <strong>Building scalable, secure systems</strong> | Passionate about backend architecture, cybersecurity, and system design | <strong>🇵🇰 Karachi, Pakistan</strong>
+  <strong>Building scalable, secure systems</strong> | Passionate about backend architecture, and system design | <strong>🇵🇰 Karachi, Pakistan</strong>
 </p>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00d4aa?style=for-the-badge&logoColor=fff&labelColor=0c1118&color=00d4aa)](https://faiq-dev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1118)](https://www.linkedin.com/in/muhammad-faiq-5a9b48333/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1118)]((https://www.linkedin.com/in/muhammad-faiq-fullstack/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1118)](https://github.com/Faiqwaseem)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1118)](mailto:muhammadfaiqwaseem3@gmail.com)
 [![X/Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white&labelColor=0c1118)](https://twitter.com/faiqwaseem)
@@ -57,13 +57,6 @@ Fullstack engineer with **1+ years** building production-grade web applications 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff&labelColor=0c1118)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff&labelColor=0c1118)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000&labelColor=0c1118)
-
-### Security & DevOps
-![Python](https://img.shields.io/badge/Python%203.11-3776AB?style=flat-square&logo=python&logoColor=fff&labelColor=0c1118)
-![JWT](https://img.shields.io/badge/JWT%20Auth-000?style=flat-square&logoColor=fff&labelColor=0c1118)
-![OWASP](https://img.shields.io/badge/OWASP-000?style=flat-square&logoColor=fff&labelColor=0c1118)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff&labelColor=0c1118)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff&labelColor=0c1118)
 
 ### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff&labelColor=0c1118)
@@ -159,57 +152,12 @@ Advanced desktop and mobile POS application with real-time sync, offline capabil
 
 </div>
 
----
-
-## 🎓 Current Learning & Development
-
-| **Area** | **Focus** | **Status** | **Target** |
-|---------|----------|-----------|-----------|
-| **Cybersecurity** | OWASP Top 10, Secure Coding, Penetration Testing | 🟢 Active | Security-focused roles, CEH certification |
-| **Python** | Scripting, Automation, Backend frameworks (Django/FastAPI) | 🟢 Active | Full-stack Python development |
-| **Advanced System Design** | Microservices, Event-driven architecture, Kubernetes | 🟡 Learning | Production system architecture |
-| **Backend Optimization** | Query optimization, Caching strategies, Load balancing | 🟡 Learning | High-performance systems |
-| **Cloud Infrastructure** | AWS EC2, S3, RDS, Lambda, CloudFront | 🟡 Learning | Cloud-native development |
-
----
-
-## 🔐 Security & Best Practices
-
-**Areas of Focus:**
-- ✅ Secure authentication (JWT, OAuth 2.0, RBAC)
-- ✅ Input validation and sanitization (XSS, SQL injection prevention)
-- ✅ API rate limiting and DDoS protection
-- ✅ Encryption (TLS/SSL, data-at-rest encryption)
-- ✅ Environment variable management and secrets
-- ✅ Code security scanning and dependency audits
-- 🔄 Learning: Penetration testing, vulnerability assessment, incident response
-
-**Certifications Pursuing:**
-- 🎯 OWASP Certified (in progress)
-- 🎯 Certified Ethical Hacker (CEH) — planned
-- 🎯 AWS Certified Solutions Architect — planned
-
----
-
-## 💼 Professional Experience Highlights
-
-- **3+ years** building scalable web applications
-- **100+ open source contributions** across multiple repositories
-- **Successfully shipped** 5+ production applications reaching 10K+ users
-- **Mentored** junior developers in fullstack development
-- **Led** technical documentation efforts and architecture decisions
-- **Optimized** database queries reducing response time by 40%+
-
----
-
 ## 🤝 Let's Collaborate
 
 I'm open to:
-- **Senior/Lead backend engineer roles**
-- **Cybersecurity-focused positions** (shifting expertise)
+- **Junior/Full Stack engineer roles**
+- Freelance projects
 - **Open source projects** with security focus
-- **Technical consulting** on system design and security
-- **Mentorship opportunities** for junior developers
 
 <br/>
 
@@ -217,10 +165,11 @@ I'm open to:
 
 ```javascript
 const faiq = {
-  role: "Fullstack Software Engineer → Cybersecurity Expert",
-  expertise: ["Backend Architecture", "System Design", "Security", "Python"],
+  role: "Fullstack Software Engineer",
+  expertise: ["Javascript","React.js", "Next.js" "Node.js", "Express", "MongoDB"],
   availability: "🟢 OPEN TO OPPORTUNITIES",
   interests: ["Zero-trust security", "Distributed systems", "Security research"],
+   motto: "Clean code. Scalable solutions. Always learning.",
   philosophy: "Write code for humans. Build for security. Scale with purpose."
 }
 ```
@@ -235,132 +184,6 @@ const faiq = {
 [![Email](https://img.shields.io/badge/Email%20Me-muhammadfaiqwaseem3@gmail.com-EA4335?style=for-the-badge&logoColor=fff&labelColor=0c1118)](mailto:muhammadfaiqwaseem3@gmail.com)
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=100&section=footer&reversal=true" width="100%"/>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=120&section=header&text=Muhammad%20Faiq&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
-
-## Full Stack Developer | MERN Stack | Problem Solver
-
-🇵🇰 **Karachi, Pakistan** | Building scalable web applications with React, Node.js & MongoDB
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=vercel&logoColor=fff&labelColor=0c1118)](https://faiq-dev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faiq-5a9b48333/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faiqwaseem)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfaiqwaseem3@gmail.com)
-
-</div>
-
----
-
-## 🚀 About Me
-
-Full Stack Developer passionate about building clean, scalable web applications. Specializing in **MERN Stack** with hands-on experience in production systems. Strong foundation in **Data Structures, Algorithms & Problem Solving**. Currently seeking a **Full-Time MERN Stack Developer** role.
-
----
-
-## 💻 Tech Stack
-
-**Frontend:** React 18 • Next.js • TypeScript • Tailwind CSS • Redux Toolkit • Zustand
-
-**Backend:** Node.js • Express.js • NestJS • REST APIs • Socket.io
-
-**Database:** MongoDB • PostgreSQL • Firebase • Redis
-
-**Tools & Platforms:** Git • Docker • Vercel • Postman • VS Code
-
----
-
-## ⭐ Featured Project
-
-### **Suffah POS** — Production Point-of-Sale System
-A comprehensive multi-platform POS solution demonstrating full-stack expertise.
-
-**Tech Stack:**
-- 🖥️ **Desktop:** Electron • React • TypeScript • SQLite
-- 📱 **Mobile:** React Native • Bluetooth Printer Integration • OTA Updates
-- ⚙️ **Backend:** Express.js • Real-time Sync • Offline-First Architecture
-
-**Key Features:**
-- Real-time inventory sync across platforms
-- ESC/POS thermal printer support (48mm & 58mm)
-- Offline functionality with SQLite
-- Kitchen Order Ticket (KOT) routing system
-- User authentication & role-based access
-
-[View Repository →](https://github.com/Faiqwaseem)
-
----
-
-## 🎯 Core Competencies
-
-✅ Full Stack Web Application Development
-✅ RESTful API Design & Implementation
-✅ Database Design & Optimization
-✅ Responsive UI/UX with Modern CSS
-✅ State Management (Redux, Zustand)
-✅ Real-time Data Handling (Socket.io)
-✅ Problem Solving & Data Structures
-✅ Version Control & Git Workflow
-
----
-
-## 📈 What I Do
-
-- 🔨 Build scalable, production-grade web applications
-- 🎨 Create responsive, user-friendly interfaces
-- ⚡ Write efficient, maintainable backend APIs
-- 🔐 Implement secure authentication & authorization
-- 🚀 Deploy and optimize full-stack applications
-
----
-
-## 🎓 Learning & Growth
-
-Currently advancing in:
-- **Advanced System Design** — Microservices, scalability patterns
-- **Security Best Practices** — OWASP, secure coding
-- **Cloud Infrastructure** — AWS, DevOps fundamentals
-
----
-
-## 💼 Open to Opportunities
-
-🟢 **Available for:** Full-time MERN Stack Developer roles • Freelance projects • Collaboration on open-source
-
----
-
-## 📊 Quick Stats
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=github_dark&hide_border=true&bg_color=0c1118&title_color=00d4aa&icon_color=4da6ff&text_color=8b949e&card_width=800" />
-
-</div>
-
----
-
-<div align="center">
-
-```javascript
-const faiq = {
-  role: "Full Stack Developer",
-  focus: "MERN Stack",
-  expertise: ["React", "Node.js", "MongoDB", "System Design"],
-  motto: "Clean code. Scalable solutions. Always learning."
-}
-```
-
-**Let's build something amazing together!**
-
-[![GitHub](https://img.shields.io/badge/View%20My%20Work-0c1118?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Faiqwaseem)
-[![Get in Touch](https://img.shields.io/badge/Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:muhammadfaiqwaseem3@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=100&section=footer&reversal=true" width="100%"/>
 
