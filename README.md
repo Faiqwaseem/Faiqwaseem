@@ -65,24 +65,6 @@ Fullstack engineer with **1+ years** building production-grade web applications 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=000&labelColor=0c1118)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=fff&labelColor=0c1118)
 
----
-
-## 🚀 Featured Projects
-
-### 1️⃣ Portfolio v2 — Personal Brand Platform
-A high-performance portfolio showcasing projects with SSG optimization, dark mode support, and mobile-first responsive design. Implements best practices in web vitals and accessibility.
-
-**Architecture:** Next.js 14 (App Router) • Tailwind CSS • Vercel Edge Functions • SEO-optimized  
-**Highlights:**
-- ⚡ 98+ Lighthouse performance score
-- 🎨 Accessible component library with A11y compliance
-- 🔍 Full-text search with static index generation
-- 📱 Mobile-responsive across all breakpoints
-
-[![Live](https://img.shields.io/badge/Live%20Demo-00d4aa?style=flat-square&logo=vercel&logoColor=fff&labelColor=0c1118)](https://faiq-dev.netlify.app/)
-[![Code](https://img.shields.io/badge/Source%20Code-0c1118?style=flat-square&logo=github&logoColor=fff&labelColor=333)](https://github.com/Faiqwaseem)
-
----
 
 ### 2️⃣ ShopMate — Full-Stack E-commerce Application
 Production-ready e-commerce platform with advanced filtering, real-time inventory, and secure payment integration. Implements cart persistence, wishlist functionality, and user authentication.
@@ -100,22 +82,6 @@ Production-ready e-commerce platform with advanced filtering, real-time inventor
 [![Live](https://img.shields.io/badge/Live%20Demo-4da6ff?style=flat-square&logoColor=fff&labelColor=0c1118)](https://shop-mate-e-commerce.netlify.app/)
 [![Code](https://img.shields.io/badge/Source%20Code-0c1118?style=flat-square&logo=github&logoColor=fff&labelColor=333)](https://github.com/Faiqwaseem)
 
----
-
-### 3️⃣ Stand With Palestine 🇵🇸 — Open Source Awareness Platform
-Large-scale community-driven open source project with 100+ contributors. Demonstrates expertise in managing complex codebases, CI/CD pipelines, and collaborative development.
-
-**Stack:** Next.js • TypeScript • Vercel • GitHub Actions  
-**Key Responsibilities:**
-- 🏗️ Architecture design for scalability
-- 🔄 Code review and contribution management
-- 🚀 Automated deployment pipeline
-- 📈 Analytics integration and tracking
-
-[![Live](https://img.shields.io/badge/Live%20Demo-9b7fff?style=flat-square&logoColor=fff&labelColor=0c1118)](https://stand-with-palestine.vercel.app)
-[![Contribute](https://img.shields.io/badge/Contribute%20Now-0c1118?style=flat-square&logo=github&logoColor=fff&labelColor=333)](https://github.com/standforhumanity/stand-with-palestine)
-
----
 
 ### 4️⃣ Suffah POS — Multi-Platform Point-of-Sale System
 Advanced desktop and mobile POS application with real-time sync, offline capabilities, and advanced thermal printer integration. Demonstrates expertise in Electron, React Native, and SQLite.
@@ -158,21 +124,6 @@ I'm open to:
 - **Junior/Full Stack engineer roles**
 - Freelance projects
 - **Open source projects** with security focus
-
-<br/>
-
-<div align="center">
-
-```javascript
-const faiq = {
-  role: "Fullstack Software Engineer",
-  expertise: ["Javascript","React.js", "Next.js" "Node.js", "Express", "MongoDB"],
-  availability: "🟢 OPEN TO OPPORTUNITIES",
-  interests: ["Zero-trust security", "Distributed systems", "Security research"],
-   motto: "Clean code. Scalable solutions. Always learning.",
-  philosophy: "Write code for humans. Build for security. Scale with purpose."
-}
-```
 
 <br/>
 
