@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1118)]((https://www.linkedin.com/in/muhammad-faiq-fullstack/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1118)](https://github.com/Faiqwaseem)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1118)](mailto:muhammadfaiqwaseem3@gmail.com)
-[![X/Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white&labelColor=0c1118)](https://twitter.com/faiqwaseem)
+
 
 <img src="https://komarev.com/ghpvc/?username=Faiqwaseem&style=for-the-badge&color=00d4aa&label=PROFILE+VISITS" alt="Profile views"/>
 
@@ -55,8 +55,7 @@ Fullstack engineer with **1+ years** building production-grade web applications 
 ### Databases & Data
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff&labelColor=0c1118)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff&labelColor=0c1118)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff&labelColor=0c1118)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000&labelColor=0c1118)
+
 
 ### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff&labelColor=0c1118)
