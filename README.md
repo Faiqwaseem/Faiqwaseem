@@ -1,140 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=140&section=header&text=Muhammad%20Faiq&fontSize=60&fontColor=fff&animation=fadeIn&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=140&section=header&text=Muhammad%20Faiq&fontSize=58&fontColor=fff&animation=fadeIn" width="100%"/>
 
-<br/>
+### Full-Stack Software Engineer · MERN · Security-Minded
 
-<h2>
-  <code>Fullstack Software Engineer</code> • <code>Open Source Contributor</code>
-</h2>
+*I build fast, secure, production-ready systems.* 📍 Karachi, Pakistan 🇵🇰
 
-<p>
-  <strong>Building scalable, secure systems</strong> | Passionate about backend architecture, and system design | <strong>🇵🇰 Karachi, Pakistan</strong>
-</p>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00d4aa?style=for-the-badge&logoColor=fff&labelColor=0c1118&color=00d4aa)](https://faiq-dev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c1118)]((https://www.linkedin.com/in/muhammad-faiq-fullstack/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0c1118)](https://github.com/Faiqwaseem)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c1118)](mailto:muhammadfaiqwaseem3@gmail.com)
-
-
-<img src="https://komarev.com/ghpvc/?username=Faiqwaseem&style=for-the-badge&color=00d4aa&label=PROFILE+VISITS" alt="Profile views"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=fff)](https://faiq-dev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/muhammad-faiq-waseem/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:muhammadfaiqwaseem3@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 Professional Overview
+## 👨‍💻 About
 
-Fullstack engineer with **1+ years** building production-grade web applications and distributed systems. Specialized in React/Next.js frontend architecture, Node.js/Express backend APIs, and real-time data processing. Currently advancing expertise in **cybersecurity**, system hardening, and secure coding practices. Driven by solving complex problems with clean, maintainable code.
+Full-stack developer with hands-on experience shipping real products: a production POS system, e-commerce platforms, and business websites. I care about clean architecture, performance, and security by design. Currently strengthening **DSA**, **system design**, and **cybersecurity**.
 
-**Core Values:** Performance-first development • Security by design • Open source contribution • Continuous learning
+🎯 **Goal:** Software Engineer → Security Expert → founder of my own software company.
 
 ---
 
-## 💻 Technical Stack
+## 🛠️ Tech Stack
 
-### Frontend Architecture
-![React](https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=000&labelColor=0c1118)
-![Next.js](https://img.shields.io/badge/Next.js%2014-000?style=flat-square&logo=next.js&logoColor=fff&labelColor=0c1118)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff&labelColor=0c1118)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff&labelColor=0c1118)
-![React Query](https://img.shields.io/badge/React%20Query-EF4444?style=flat-square&logo=react-query&logoColor=fff&labelColor=0c1118)
-![Zustand](https://img.shields.io/badge/Zustand-000?style=flat-square&logoColor=fff&labelColor=0c1118)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
 
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff&labelColor=0c1118)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff&labelColor=0c1118)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff&labelColor=0c1118)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=flat-square&logoColor=fff&labelColor=0c1118)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff&labelColor=0c1118)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=fff&labelColor=0c1118)
+---
 
-### Databases & Data
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff&labelColor=0c1118)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff&labelColor=0c1118)
+## 🚀 Featured Projects
 
-
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff&labelColor=0c1118)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff&labelColor=0c1118)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff&labelColor=0c1118)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=000&labelColor=0c1118)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=fff&labelColor=0c1118)
-
-
-### 2️⃣ ShopMate — Full-Stack E-commerce Application
-Production-ready e-commerce platform with advanced filtering, real-time inventory, and secure payment integration. Implements cart persistence, wishlist functionality, and user authentication.
-
-**Frontend:** React 18 • Redux Toolkit • Axios • Responsive CSS Grid  
-**Backend:** Node.js • Express • JWT Authentication • Rate Limiting  
-**Database:** MongoDB with indexed queries for fast product searches  
-**Features:**
-- 🛒 Dynamic product filtering (price, category, ratings)
-- 💳 Stripe integration for secure payments
-- 📊 Order tracking and user dashboard
-- 🔐 Secure session management with refresh tokens
-- 📱 Mobile-optimized checkout flow
-
-[![Live](https://img.shields.io/badge/Live%20Demo-4da6ff?style=flat-square&logoColor=fff&labelColor=0c1118)](https://shop-mate-e-commerce.netlify.app/)
-[![Code](https://img.shields.io/badge/Source%20Code-0c1118?style=flat-square&logo=github&logoColor=fff&labelColor=333)](https://github.com/Faiqwaseem)
-
-
-### 4️⃣ Suffah POS — Multi-Platform Point-of-Sale System
-Advanced desktop and mobile POS application with real-time sync, offline capabilities, and advanced thermal printer integration. Demonstrates expertise in Electron, React Native, and SQLite.
-
-**Desktop:** Electron • React • TypeScript • SQLite with migrations  
-**Mobile:** React Native • Android APK OTA updates • Bluetooth receipt printing  
-**Backend:** Express.js • Node.js • Automated testing pipeline  
-**Features:**
+### 🧾 Suffah POS — Offline-First Point of Sale
+Production-grade desktop POS with thermal printing, KOT routing, and a licensing module.
+**Stack:** Electron · React · TypeScript · SQLite
 - 🖨️ ESC/POS thermal printer support (48mm & 58mm)
-- 📱 Over-the-air APK updates with manifest versioning
-- 🔄 Real-time data sync across platforms
-- 💾 Offline-first architecture with SQLite
-- 🧮 Kitchen Order Ticket (KOT) routing system
+- 💾 Offline-first with SQLite migrations
+- 🍽️ Kitchen Order Ticket (KOT) routing
 
-**Skills Demonstrated:**
-- Cross-platform app development
-- Hardware integration (Bluetooth)
-- Binary protocol handling (ESC/POS)
-- CI/CD pipeline design
-- SQLite schema migrations
+### 🛒 ShopMate — Full-Stack E-Commerce
+Complete store with filtering, cart, wishlist, and secure auth.
+**Stack:** React · Redux Toolkit · Node.js · Express · MongoDB
+- 🔐 JWT auth with refresh tokens and rate limiting
+- 📊 Order tracking and user dashboard
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4da6ff?style=flat-square)](https://shop-mate-e-commerce.netlify.app/)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=github_dark&hide_border=true&bg_color=0c1118&title_color=00d4aa&icon_color=4da6ff&text_color=8b949e&line_height=24&card_width=800" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Faiqwaseem&theme=github-dark-blue&hide_border=true&background=0c1118&ring=00d4aa&fire=4da6ff&currStreakLabel=00d4aa&sideLabels=8b949e" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqwaseem&layout=compact&theme=github_dark&hide_border=true&bg_color=0c1118&title_color=00d4aa&text_color=8b949e" />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faiqwaseem&theme=github_dark" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=github_dark&hide_border=true&bg_color=0c1118&title_color=00d4aa&icon_color=4da6ff&text_color=8b949e" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqwaseem&layout=compact&theme=github_dark&hide_border=true&bg_color=0c1118&title_color=00d4aa&text_color=8b949e" />
 
 </div>
 
-## 🤝 Let's Collaborate
+---
 
-I'm open to:
-- **Junior/Full Stack engineer roles**
-- Freelance projects
-- **Open source projects** with security focus
+## 🤝 Open To
 
-<br/>
+💼 Full-stack / MERN engineer roles  ·  🧑‍💻 Freelance projects  ·  🔐 Security-focused open source
+
+<div align="center">
 
 **Let's build something secure and impactful together.**
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=fff&labelColor=0c1118)](https://github.com/Faiqwaseem)
-[![Email](https://img.shields.io/badge/Email%20Me-muhammadfaiqwaseem3@gmail.com-EA4335?style=for-the-badge&logoColor=fff&labelColor=0c1118)](mailto:muhammadfaiqwaseem3@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=100&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=90&section=footer" width="100%"/>
 
 </div>
