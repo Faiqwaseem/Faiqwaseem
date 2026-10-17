@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=140&section=header&text=Muhammad%20Faiq&fontSize=58&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=160&section=header&text=Muhammad%20Faiq&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20MERN%20%E2%80%A2%20Security-Minded&descSize=18&descAlignY=60" width="100%"/>
 
-### Full-Stack Software Engineer · MERN · Security-Minded
+**Building fast, scalable and secure web & desktop products.**
+📍 Karachi, Pakistan &nbsp;•&nbsp; 💼 Open to Full Stack roles & freelance
 
-*I build fast, secure, production-ready systems.* 📍 Karachi, Pakistan 🇵🇰
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=fff)](https://faiq-dev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/muhammad-faiq-waseem/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:muhammadfaiqwaseem3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=netlify&logoColor=white)](https://faiq-dev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faiq-fullstack/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfaiqwaseem3@gmail.com)
 
 </div>
 
@@ -16,46 +15,50 @@
 
 ## 👨‍💻 About
 
-Full-stack developer with hands-on experience shipping real products: a production POS system, e-commerce platforms, and business websites. I care about clean architecture, performance, and security by design. Currently strengthening **DSA**, **system design**, and **cybersecurity**.
-
-🎯 **Goal:** Software Engineer → Security Expert → founder of my own software company.
+Full Stack Engineer with **1+ years** of production experience shipping React/Next.js frontends, Node.js APIs and offline-first desktop apps. Currently deepening my skills in **DSA, system design and cybersecurity**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧾 Suffah POS — Offline-First Point of Sale
-Production-grade desktop POS with thermal printing, KOT routing, and a licensing module.
-**Stack:** Electron · React · TypeScript · SQLite
+Production-grade POS for desktop and mobile with thermal printing, KOT routing, licensing and OTA updates.
+
+`Electron` `React` `TypeScript` `SQLite` `React Native` `Node.js`
+
 - 🖨️ ESC/POS thermal printer support (48mm & 58mm)
-- 💾 Offline-first with SQLite migrations
-- 🍽️ Kitchen Order Ticket (KOT) routing
+- 💾 Offline-first with versioned SQLite migrations
+- 📱 Bluetooth receipt printing & OTA APK updates
 
-### 🛒 ShopMate — Full-Stack E-Commerce
-Complete store with filtering, cart, wishlist, and secure auth.
-**Stack:** React · Redux Toolkit · Node.js · Express · MongoDB
-- 🔐 JWT auth with refresh tokens and rate limiting
-- 📊 Order tracking and user dashboard
+### 🛍️ Staller E-commerce — Full-Stack E-commerce
+Secure e-commerce platform with filtering, cart, wishlist, order tracking and Stripe payments.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-4da6ff?style=flat-square)](https://shop-mate-e-commerce.netlify.app/)
+`React` `Redux Toolkit` `Node.js` `Express` `MongoDB` `JWT` `Stripe`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4da6ff?style=flat-square)](https://staller-e-commerce.netlify.app/)
 
 ---
 
@@ -63,20 +66,18 @@ Complete store with filtering, cart, wishlist, and secure auth.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=github_dark&hide_border=true&bg_color=0c1118&title_color=00d4aa&icon_color=4da6ff&text_color=8b949e" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqwaseem&layout=compact&theme=github_dark&hide_border=true&bg_color=0c1118&title_color=00d4aa&text_color=8b949e" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Faiqwaseem&show_icons=true&theme=github_dark&hide_border=true&bg_color=0c1118&title_color=00d4aa&icon_color=4da6ff&text_color=8b949e" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqwaseem&layout=compact&theme=github_dark&hide_border=true&bg_color=0c1118&title_color=00d4aa&text_color=8b949e" />
 
 </div>
 
 ---
 
-## 🤝 Open To
-
-💼 Full-stack / MERN engineer roles  ·  🧑‍💻 Freelance projects  ·  🔐 Security-focused open source
-
 <div align="center">
 
-**Let's build something secure and impactful together.**
+### 🤝 Let's build something secure and impactful together.
+
+[![Email Me](https://img.shields.io/badge/muhammadfaiqwaseem3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfaiqwaseem3@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:00d4aa&height=90&section=footer" width="100%"/>
 
